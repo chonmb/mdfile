@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mdfile",  # 包名称
+    name="easy-mdfile",  # 包名称
     version="0.0.1",  # 版本号
     author="chonmb",  # 作者
     author_email="weichonmb@foxmail.com",  # 作者邮箱
